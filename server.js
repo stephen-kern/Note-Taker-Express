@@ -26,6 +26,7 @@ app.use("/api", apiRoutes);
 // route for index page
 app.use("/", htmlRoutes);
 
+// listen for the connection on the host and port
 app.listen(PORT, () => {
     console.log(`API is now on port ${PORT}`)
 });
