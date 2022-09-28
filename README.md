@@ -29,3 +29,5 @@
 ## Questions?
   * Github Username: [stephen-kern](https://github.com/stephen-kern)
   * Contact Email: stephenkern96@gmail.com
+  * 
+![NTE-SC](https://user-images.githubusercontent.com/94320530/192891707-7f12b278-9507-4b55-95de-bd6e3a2f142a.png)
